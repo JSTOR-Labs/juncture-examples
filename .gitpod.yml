@@ -1,0 +1,6 @@
+ports:
+  - port: 8088
+    onOpen: open-browser
+tasks:
+  - name: Static Server
+    command: npx serve -l 8088 -n
