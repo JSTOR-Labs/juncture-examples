@@ -142,7 +142,7 @@ module.exports = {
         layers() { return this.items.filter(item => item['ve-map-layer']) },
         itemsWithMapwarperLayer() { return layers.filter(item => item.mapwarper) },
         itemsWithMarkers() { return this.items.filter(item => item['ve-map-marker']) }, 
-        zoom() { return this.mapDef.zoom || defaults.zoom },
+        zoom() { return parseInt(this.mapDef.zoom || defaults.zoom) },
         maxZoom() { return this.mapDef['max-zoom'] || defaults.maxZoom },
         timeDimension() { return this.mapDef['time-dimension'] || defaults.timeDimension },
         autoPlay() { return this.mapDef['auto-play'] || defaults.autoPlay },
@@ -279,7 +279,6 @@ module.exports = {
         syncLayers() {
             this.syncGeoJSONLayers()
             this.syncTileLayers()
-            console.log('syncLayers.flyto')
             this.map.flyTo(this.center, this.zoom)
             
             const markers = this.itemsWithMarkers

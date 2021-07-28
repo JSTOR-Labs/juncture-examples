@@ -12,3 +12,4 @@
 - [More image examples using IIIF](ginevra-de-benci)
 - [Entities](entities)
 - [Girl with a Pearl Earring](girl-with-pearl-earring)
+- [IFrame](iframe)
