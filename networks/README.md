@@ -20,6 +20,7 @@ This tag renders a basic network diagram using the D3Plus library. D3plus is a J
 ```markdown
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 ```
+To view the file used in the example as a reference, click [here](https://github.com/JSTOR-Labs/plant-humanities/blob/main/graphs/peony_medici.tsv).
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
 
@@ -30,6 +31,7 @@ This ring network diagram uses the D3Plus library. Rings are a way to view netwo
        url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia_network_interactions.tsv"
        center="Heliconia imbricata">
 ```
+To view the file used in the example as a reference, click [here](https://github.com/JSTOR-Labs/plant-humanities/blob/main/data/heliconia_network_interactions.tsv).
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia_network_interactions.tsv"
        center="Heliconia imbricata">
