@@ -24,7 +24,7 @@ Ginevra de' Benci, a well-known young Florentine woman, is universally considere
 The <span data-mouseover-image-zoomto="568,687,6480,8027">juniper bush</span> that surrounds Ginevra's head and fills much of the background, serves more than mere decorative purposes. In Renaissance Italy, the juniper was regarded a symbol of female virtue, while the Italian word for juniper, ginepro, also makes a play on Ginevra's name.[^4]
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/1a5fa6b073e9ae3b773f5ae8e421b6ea09989b0257c142a1b7df7146d640a720">
 
-The imagery and text on the reverse of the panel further support the identification of this picture. The reverse is decorated with a juniper sprig encircled by a wreath of laurel and palm and is memorialized by the phrase Virtvtem Forma Decorat ("Virtue Adorns Beauty").
+The imagery and text on the reverse of the panel further support the identification of this picture. The reverse is decorated with a juniper sprig encircled by a wreath of laurel and palm and is memorialized by the phrase Virtvtem Forma Decorat ("Beauty Adorns Virtue").
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/1/12/Leonardo_da_Vinci_-_Wreath_of_Laurel%2C_Palm%2C_and_Juniper_with_a_Scroll_inscribed_Virtutem_Forum_Decorat_%28reverse%29_-_Google_Art_Project.jpg"
        label="Wreath of Laurel, Palm, and Juniper with a Scroll inscribed Virtutem Forum Decorat (reverse)"
